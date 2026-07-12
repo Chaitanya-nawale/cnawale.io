@@ -23,6 +23,6 @@
     "typescript": "^5.9.3"
   },
   "devDependencies": {
-    "@iconify-json/simple-icons": "^1.2.82"
+    "@iconify-json/simple-icons": "^1.2.89"
   }
 }
